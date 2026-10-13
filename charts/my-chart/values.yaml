@@ -1,0 +1,4 @@
+name: my-chart
+environment: production
+config:
+  message: Hello from Helm
